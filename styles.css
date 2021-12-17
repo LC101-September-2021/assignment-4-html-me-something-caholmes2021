@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+     
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+p.funParagraph {
+    color: green;
+}
+
+h2.scary {
+    background-color: orangered;
+}
+
+h2.spooky {
+    background-color: palevioletred;
+}
+
+#bloody {
+    background-color: red;
+}
